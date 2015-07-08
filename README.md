@@ -3,8 +3,7 @@
 ### [Specific Directions for each
 Phase.](https://gist.github.com/jendiamond/f6432d1a102b2ca6a429)
 
-### Phase One - The Beginning - [Issue
-#6](https://github.com/LARailsLearners/_first_app_instructions/issues/6)
+### Phase One - The Beginning - [Issue #6](https://github.com/LARailsLearners/_first_app_instructions/issues/6)
 
 ##### Create a New Rails App using a Postgres database
 
@@ -18,8 +17,7 @@ To install vagrant see https://github.com/webapp-builders/groundwork
 
 -----
 
-### Phase 2 - Add Authentication with Devise - [Issue
-#2](https://github.com/LARailsLearners/_first_app_instructions/issues/2)
+### Phase 2 - Add Authentication with Devise - [Issue #2](https://github.com/LARailsLearners/_first_app_instructions/issues/2)
 
 - Take the time to UNDERSTAND Devise
 - Understand Authentication broadly
@@ -29,8 +27,7 @@ To install vagrant see https://github.com/webapp-builders/groundwork
 
 -----
 
-### Phase 3 - Add Bootstrap - [Issue
-#3](https://github.com/LARailsLearners/_first_app_instructions/labels/HOMEWORK)
+### Phase 3 - Add Bootstrap - [Issue #3](https://github.com/LARailsLearners/_first_app_instructions/labels/HOMEWORK)
 
 (You could also use Foundation, or some other CSS framework.)    
 Bootstrap is a framework that makes it easy for a developer to create a nice
