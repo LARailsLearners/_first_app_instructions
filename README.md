@@ -19,4 +19,8 @@ https://github.com/LARailsLearners/_first_app_instructions/issues?q=is%3Aissue+i
 
 -----
 
-[Team Info](https://github.com/LARailsLearners/_first_app_instructions/issues/8
+### [Team Info](https://github.com/LARailsLearners/_first_app_instructions/issues/8)
+
+Join the Google Group
+
+Get on the Slack Channel and more.
