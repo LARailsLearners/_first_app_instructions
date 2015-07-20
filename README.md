@@ -2,7 +2,7 @@
 
 ## Get Up to Speed
 
-### See a list of all Homeworks (the phases of our building process)
+### See a list of all Homework (the phases of our building process)
 
 https://github.com/LARailsLearners/_first_app_instructions/issues/7
 
