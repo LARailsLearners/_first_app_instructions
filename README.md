@@ -1,4 +1,4 @@
-# LA Rails Learners - First App
+# LA Rails Learners - The Parallell Project
 
 ## Get Up to Speed
 
