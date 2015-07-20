@@ -16,3 +16,7 @@ https://github.com/LARailsLearners/_first_app_instructions/issues?q=is%3Aissue+i
 =====
 
 ### [Specific Directions for each Phase.](https://gist.github.com/jendiamond/f6432d1a102b2ca6a429)
+
+-----
+
+[Team Info](https://github.com/LARailsLearners/_first_app_instructions/issues/8
